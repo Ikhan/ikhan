@@ -1,7 +1,5 @@
 ## Hi I'm Imran Khan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-
-
 I'm Imran Khan a Full Stack Web Developer based in NYC / Colombo 
 
 :mailbox: Reach me out!
@@ -29,5 +27,5 @@ I'm Imran Khan a Full Stack Web Developer based in NYC / Colombo
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 
-- :paperclip: [My Resume/CV](https://github.com/Ikhan/imrankhan/blob/main/Resume/Imran%20Khan%20-%20Resume%20.pdf)
+- :paperclip: [My Resume](https://github.com/Ikhan/imrankhan/blob/main/Resume/Imran%20Khan%20-%20Resume%20.pdf)
 - :email: ikhan@imran-khan.com
