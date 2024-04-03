@@ -29,5 +29,5 @@ I'm Imran Khan a Full Stack Web Developer based in NYC / Colombo
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/Islem%20Maboud%20Resume%20v2.0.pdf)
+- :paperclip: [My Resume/CV](https://github.com/Ikhan/imrankhan/blob/main/Resume/Imran%20Khan%20-%20Resume%20.pdf)
 - :email: ikhan@imran-khan.com
