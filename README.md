@@ -14,7 +14,7 @@ I'm Imran Khan a Full Stack Web Developer.
 
 - 🔭 I’m currently working as a Independent Software Developer
 - :computer: Most used line of code `gc -m "Initial Commit"`
-- \- 📫 You can reach me at : ikhan@imran-khan.com.
+- \- 📫 You can reach me at : mmmimran@gmail.com.
 
 
 #### Top Technologies
