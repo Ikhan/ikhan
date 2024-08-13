@@ -9,7 +9,7 @@ Hello everyone, I'm Imran Khan , Software Developer.
 
 ### What I currently Do
 
-- 🔭 I’m currently working as a Software Consultant for a Accounting Firm.
+- 🔭 I’m currently working as a Software Engineer.
 - :computer: Most used line of code `gc -m "Initial Commit"`
 
 
