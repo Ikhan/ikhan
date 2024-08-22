@@ -1,6 +1,8 @@
 ## Hey <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-Hello everyone, I'm Imran Khan , Software Developer.
+Hello everyone, my name is Imran Khan , Software Engineer . Experienced IT professional specializing in Node.js and JavaScript, with a decade of software development expertise. Proficient in the full SDLC, including Agile/Scrum methodologies, and skilled in delivering scalable solutions. Strong leader with experience in cross-functional team collaboration and architectural design.
+
+Expert in CI/CD pipeline implementation using Jenkins and AWS, automating testing and deployment processes. Adept at working with stakeholders to deliver tailored software solutions. Passionate about continuous learning, with a current interest in Go Lang for future projects.
 
 :mailbox: Reach me out!
 
