@@ -12,4 +12,3 @@ Expert in CI/CD pipeline implementation using Jenkins and AWS, automating testin
 ### What I currently Do
 
 - 🔭 I’m currently working as a Software Engineer.
-- :computer: Most used line of code `gc -m "Initial Commit"`
